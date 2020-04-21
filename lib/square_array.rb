@@ -8,4 +8,3 @@ while i < array.length do
 end
 return square_array
 end
-end
