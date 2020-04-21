@@ -6,3 +6,4 @@ while i < array.length {
 }
 return square_array
 end
+end
